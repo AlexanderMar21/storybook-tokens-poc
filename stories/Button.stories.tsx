@@ -1,3 +1,4 @@
+import '@/assets/styles/Button.css';
 export default {
   title: 'Components/Button'
 };
